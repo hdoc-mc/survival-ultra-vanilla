@@ -74,8 +74,7 @@ Run the same commands as the installation.
 ### Useful
 
 - `Fast Backups`: 0.19.0
-- `hotbar-keys`: 0.0.0 (Local build of https://github.com/Hdoc1509/hotbar-keys
-  in `1.21` branch at commit `a036131`)
+- `hotbar-keys`: 0.0.0 (Local build of `1.21` branch at commit `a036131`)
 - `JEI`: 19.21.0.247
 - `Mod Menu`: 11.0.3
   - `Text Placeholder API`: 2.4.1
@@ -171,18 +170,18 @@ Minecraft days` that is equal to `80 minutes IRL`
 - `Enchanting Table Magic Circle`: 1.3
 - `Enhanced Item Frame`: 1.21
 - `Fancy Beds`: 3.4
-- `FancyConnectedBeds`: (Downloaded from
-  https://github.com/TeamMidnightDust/BetterBeds)
+- `FancyConnectedBeds`: (Downloaded from [BetterBeds
+  repository](https://github.com/TeamMidnightDust/BetterBeds))
 - `Fast Better Grass`: 1.21.4
 - `Hatsune Miku Totem`: 1.0
-- `hdoc-vt-rp-1.21.x`: https://vanillatweaks.net/share#gTMUJ0
+- `hdoc-vt-rp-1.21.x`: [Click to download](https://vanillatweaks.net/share#gTMUJ0)
 - `Human Era Villagers`: HumanVillagerOnly 2.75
 - `Hunger Preview`: 1.21
 - `Improved Fences`: 1.2.5
-- `Improved Fences Single-Door Gate Add-On`: 1.1 (Downloaded from
-  https://github.com/NaiNonTH/Improved-Fences/blob/main/Add-Ons)
-- `Improved Fences All Planks Add-On`: 1.2.2 (Downloaded from
-  https://github.com/NaiNonTH/Improved-Fences/blob/main/Add-Ons)
+- `Improved Fences Single-Door Gate Add-On`: 1.1 (Downloaded from [Improved
+  Fences repository](https://github.com/NaiNonTH/Improved-Fences))
+- `Improved Fences All Planks Add-On`: 1.2.2 (Downloaded from [Improved
+  Fences repository](https://github.com/NaiNonTH/Improved-Fences))
 - `Minecarts with Wheels`: 1.1.0
 - `Recolourful Containers GUI + HUD (DARK)`: 1.1.1
 - `Round Trees`: 7.1
