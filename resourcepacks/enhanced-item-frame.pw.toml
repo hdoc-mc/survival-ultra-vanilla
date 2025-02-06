@@ -1,0 +1,13 @@
+name = "Enhanced Item Frame"
+filename = "enhanced-item-frame-1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8485d68548d93b18a7f3af22023febfc514fc30f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5477699
+project-id = 689085

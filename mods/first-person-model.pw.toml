@@ -1,0 +1,17 @@
+name = "First-person Model"
+filename = "firstperson-fabric-2.4.6-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/v5yEYZCO/firstperson-fabric-2.4.6-mc1.21.jar"
+hash-format = "sha512"
+hash = "a5c421cd99b1de1af923981db2bec65653450bdcd0f872b5f64731f1bc3259c4c1bf14ad52a11c88967bf99bcaa57d9730a676ac2435366cb01ac7b97c2c81de"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "v5yEYZCO"
+
+[option]
+optional = true
+description = "Only when battle Warden, Ender Dragon or Whither Boss"

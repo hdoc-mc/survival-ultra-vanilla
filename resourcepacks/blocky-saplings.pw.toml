@@ -1,0 +1,13 @@
+name = "Blocky Saplings"
+filename = "Blocky Saplings.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gYirneO5/versions/tajKXrZw/Blocky%20Saplings.zip"
+hash-format = "sha512"
+hash = "acc34a2bf979c429b08b1a762b8c5d83e9c3bf52d883e227802ef7296d85b1cbf3f857a8409f8e86c454d0b37b2b25e5ad4eed5c3ebd5c755fe8d70864480bf2"
+
+[update]
+[update.modrinth]
+mod-id = "gYirneO5"
+version = "tajKXrZw"

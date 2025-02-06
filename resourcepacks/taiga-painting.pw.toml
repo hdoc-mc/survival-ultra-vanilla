@@ -1,0 +1,13 @@
+name = "Taiga Painting"
+filename = "Taiga Painting.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dm9hXuQi/versions/SgWdBbvT/Taiga%20Painting.zip"
+hash-format = "sha512"
+hash = "f45be0d10a0ca7ece0d139f88d70df21712ced380d620fd50727bd5be1c3581983194ca907b72058a4acc1ba7839a89d09cddf85a572587fb8af3ac865312c78"
+
+[update]
+[update.modrinth]
+mod-id = "dm9hXuQi"
+version = "SgWdBbvT"

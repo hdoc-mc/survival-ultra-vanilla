@@ -1,0 +1,13 @@
+name = "Cycle Paintings"
+filename = "cyclepaintings-1.21.1-3.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/fsm5aKli/cyclepaintings-1.21.1-3.6.jar"
+hash-format = "sha512"
+hash = "e93338704d275395ff7a246691e2429080869ef944b9f8f9dadff9d1a29d86ccd97caf842626fdff3deecb1260a0c217f914cb329babaf6496f5763400cb8bad"
+
+[update]
+[update.modrinth]
+mod-id = "c85whkNB"
+version = "fsm5aKli"

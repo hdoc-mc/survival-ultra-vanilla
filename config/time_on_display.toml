@@ -1,0 +1,8 @@
+displaySystemTimeIcon = ""
+displayEnabled = true
+displayLocation = "upper-right"
+display24Hour = true
+displayOnlySystemTime = true
+_comment1 = "displaySystemTimeIcon can be 1 or 2 (in quotes) for alternate icons"
+displayClockIcons = true
+_comment2 = "displayLocation can be lower-left,  upper-left, upper-middle, upper-right, or lower-right (in quotes) for alternate positions"

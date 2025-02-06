@@ -1,0 +1,13 @@
+name = "Enchanting Table Magic Circle"
+filename = "Enchanting Table Magic Circle Blue v1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gLbwPaHh/versions/MXUeyGy8/Enchanting%20Table%20Magic%20Circle%20Blue%20v1.3.zip"
+hash-format = "sha512"
+hash = "54bbf97491e3f75ba81a69823b64289a7b4b590109c307ba73ac48a4b62f16f54d74763adf08b269e789738c885aa2226b1227e3712cae03547bc43f063a7bb5"
+
+[update]
+[update.modrinth]
+mod-id = "gLbwPaHh"
+version = "MXUeyGy8"

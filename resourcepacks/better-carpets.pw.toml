@@ -1,0 +1,13 @@
+name = "Better Carpets"
+filename = "Better Carpets 1.19.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DDTvDpUm/versions/Eqq0lHLT/Better%20Carpets%201.19.4.zip"
+hash-format = "sha512"
+hash = "79c538e84b62e7f27bad99ee11935f98771d654fb15d49752d2bfd8fc218034745788bac61868453609b910cb7cf840cc1720092b00f28ca97549ae12885b2cf"
+
+[update]
+[update.modrinth]
+mod-id = "DDTvDpUm"
+version = "Eqq0lHLT"

@@ -1,0 +1,13 @@
+name = "Shrimp's Distinct Potions"
+filename = "Shrimps-Distinct-Potions.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q960kOT8/versions/n4g1QgvG/Shrimps-Distinct-Potions.zip"
+hash-format = "sha512"
+hash = "410b74762a92d99f13afc7aa8f73507dd986f84611f2b71ec4722ba4a12078c7ce147bea643aa7586e4aa80500f42c63a19c2a190ecaa0cea2075a34776fce9c"
+
+[update]
+[update.modrinth]
+mod-id = "Q960kOT8"
+version = "n4g1QgvG"

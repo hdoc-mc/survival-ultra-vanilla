@@ -1,0 +1,13 @@
+name = "Minecarts with Wheels"
+filename = "Minecarts with Wheels.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NLiFCR9U/versions/7oDdEFp5/Minecarts%20with%20Wheels.zip"
+hash-format = "sha512"
+hash = "aecd09fc923b36c530272cf2d5dd6e8a1ce9164f22f622efc0a87ae29f975b57cbbae59bdbd0d5d48cbf185ffbf708feb7b12f498a0b3bc77da1a3296596aaf7"
+
+[update]
+[update.modrinth]
+mod-id = "NLiFCR9U"
+version = "7oDdEFp5"

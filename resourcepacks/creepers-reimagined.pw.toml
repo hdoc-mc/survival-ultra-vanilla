@@ -1,0 +1,13 @@
+name = "Creepers Reimagined"
+filename = "§aCreepers-Reimagined§8-[v.1.2].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "014e24eddfa5631f2c7b34c646afabe9abbdcfbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3411518
+project-id = 510886

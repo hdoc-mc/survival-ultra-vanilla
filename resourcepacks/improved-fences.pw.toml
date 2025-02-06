@@ -1,0 +1,13 @@
+name = "Improved Fences"
+filename = "Improved Fences V1.2.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OYlcIexz/versions/dWbe7t8m/Improved%20Fences%20V1.2.5.zip"
+hash-format = "sha512"
+hash = "df73d11b53afa6c666ff6daa7feee30a3df95540258516d9c2d8a76566a043565d4729f2f1976964306cefafa83a62e172502d8d4eb2eeed0538d44d5ebd4766"
+
+[update]
+[update.modrinth]
+mod-id = "OYlcIexz"
+version = "dWbe7t8m"

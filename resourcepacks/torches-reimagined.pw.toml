@@ -1,0 +1,13 @@
+name = "Torches Reimagined"
+filename = "§eTorches§0_§eReimagined§0_§8[v1.3.1]§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfnQDIWs/versions/MRkonHYt/%C2%A7eTorches%C2%A70_%C2%A7eReimagined%C2%A70_%C2%A78%5Bv1.3.1%5D%C2%A70.zip"
+hash-format = "sha512"
+hash = "c5ffea75fb3b74e6cc296f76b9b13f7f25051fe703985110dc93702711ef1c4ab309b621165e37fcbbbf7b67bc66efbf3e3e6987e1e63030ef3e14a7b53f232f"
+
+[update]
+[update.modrinth]
+mod-id = "pfnQDIWs"
+version = "MRkonHYt"

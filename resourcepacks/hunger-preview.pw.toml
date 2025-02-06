@@ -1,0 +1,13 @@
+name = "Hunger Preview - All Languages 🇺🇲🇹🇷🇨🇵🇬🇧🇩🇪"
+filename = "hunger-preview-1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db5c80abec8eb4afa5652a985fe7b6efec00393a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5477576
+project-id = 411452

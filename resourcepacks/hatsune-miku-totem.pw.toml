@@ -1,0 +1,13 @@
+name = "Hatsune Miku Totem"
+filename = "Miku Totem.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wIonl4tT/versions/so3BHaYn/Miku%20Totem.zip"
+hash-format = "sha512"
+hash = "bf07d66efbcdedb29b8e5ecddf7d7441fea2723859c025f085f7e1797f3ad6fdeb4e2211f59ad2b9900197ef7121f5ed98a40f27f9f6e651ba613f16729903b7"
+
+[update]
+[update.modrinth]
+mod-id = "wIonl4tT"
+version = "so3BHaYn"

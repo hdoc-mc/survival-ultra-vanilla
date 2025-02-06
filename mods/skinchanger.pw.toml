@@ -1,0 +1,13 @@
+name = "SkinChanger"
+filename = "skin_changer-fabric-1.21-0.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5jVtTQGY/versions/8WXiqx2D/skin_changer-fabric-1.21-0.9.2.jar"
+hash-format = "sha512"
+hash = "e118f48668041dfa79e1a2f95b1bc668b9e885d4c54f3f1c8e3ebe0eea53e71fe5805bf68cac5b0d70b8c7f75b4c1bb81671811e26fb506ffea597ce8d3a3afa"
+
+[update]
+[update.modrinth]
+mod-id = "5jVtTQGY"
+version = "8WXiqx2D"

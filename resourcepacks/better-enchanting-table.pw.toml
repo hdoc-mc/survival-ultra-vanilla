@@ -1,0 +1,13 @@
+name = "Better Enchanting Table"
+filename = "Better Enchanting Table Blue v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d9PIjVLE/versions/WwzIx6WL/Better%20Enchanting%20Table%20Blue%20v1.2.zip"
+hash-format = "sha512"
+hash = "817d21a200b2903c187465da2c6c9a4c391c10873ed5ab96da59a5663aa53589a13a884cbc1c4ffdcab585f5a0174689521fc613a085a7f0e6d5b792159a828f"
+
+[update]
+[update.modrinth]
+mod-id = "d9PIjVLE"
+version = "WwzIx6WL"

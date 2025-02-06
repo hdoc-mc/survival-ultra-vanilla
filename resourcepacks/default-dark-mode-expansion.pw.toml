@@ -1,0 +1,13 @@
+name = "Default Dark Mode: Expansion"
+filename = "Default-Dark-Mode-Expansion-1.19.0+-2024.11.10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3vMfZFQ/versions/m53YsaA8/Default-Dark-Mode-Expansion-1.19.0%2B-2024.11.10.zip"
+hash-format = "sha512"
+hash = "cee07da2f494bfe2e0a4d48ef8addf81ec94b0633e864df47f370ab31918f5942f15d35869ea6a3620ba6b75cdf489f41ea4d7abb132517119136e3766730ef3"
+
+[update]
+[update.modrinth]
+mod-id = "m3vMfZFQ"
+version = "m53YsaA8"

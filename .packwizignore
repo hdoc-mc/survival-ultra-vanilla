@@ -1,0 +1,9 @@
+# files
+*.md
+*.tar.gz
+
+# folders
+backup/
+
+# config
+.editorconfig
