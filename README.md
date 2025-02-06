@@ -227,7 +227,7 @@ Run the following commands once opened `Minecraft`:
 3. `/backup set remote-retention-policy daily 7`
 4. `/backup create-file-remote ${path_to_this_repo}/backup`
 
-> [!NOTE]:
+> [!NOTE]
 > `${path_to_this_repo}` is the absolute path to this repository.
 
 ### Compressed Backup
