@@ -74,10 +74,6 @@ Run the same commands as the installation.
 ### Useful
 
 - `Fast Backups`: 0.19.0
-  - `shutdown-action`: `full-gc`
-  - `retention-policy`: `daily 7`
-  - `remote-retention-policy`: `daily 7`
-  - `create-file-remote`: ./backup/
 - `hotbar-keys`: 0.0.0 (Local build of https://github.com/Hdoc1509/hotbar-keys
   in `1.21` branch at commit `a036131`)
 - `JEI`: 19.21.0.247
