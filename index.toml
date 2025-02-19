@@ -105,11 +105,6 @@ hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
 
 [[files]]
-file = "mods/customizable-elytra.pw.toml"
-hash = "7daac6265b03f6f444fa33179504fdebb1574e859c67c936381d1ead174cd75a"
-metafile = true
-
-[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "0c896adfb2906e779e3260b31a87b984e7ac1dafcc6b2b754780708db141103a"
 metafile = true

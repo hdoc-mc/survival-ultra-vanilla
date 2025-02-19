@@ -102,7 +102,6 @@ Run the same commands as the installation.
     - `Visual Armor Trims` resource pack
     - `xali's Enchanted Books` resource pack
 - `Continuity`: 3.0.0
-- `Customizable Elytra`: 2.2.7
 - `Cycle Paintings`: 3.6 (set as `client` side)
   - `Collective`: 7.87
 - `Dark Paintings`: 21.1.2
@@ -174,7 +173,7 @@ Minecraft days` that is equal to `80 minutes IRL`
   repository](https://github.com/TeamMidnightDust/BetterBeds))
 - `Fast Better Grass`: 1.21.4
 - `Hatsune Miku Totem`: 1.0
-- `hdoc-vt-rp-1.21.x`: [Click to download](https://vanillatweaks.net/share#gTMUJ0)
+- `hdoc-vt-rp-1.21.x`: [Click to download](https://vanillatweaks.net/share#TMdEn4)
 - `Human Era Villagers`: HumanVillagerOnly 2.75
 - `Hunger Preview`: 1.21
 - `Improved Fences`: 1.2.5
