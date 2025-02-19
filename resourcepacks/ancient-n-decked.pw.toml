@@ -1,0 +1,13 @@
+name = "Ancient N Decked"
+filename = "AncientNDecked.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQCWZqcM/versions/x7ScokrE/AncientNDecked.zip"
+hash-format = "sha512"
+hash = "33c79d932ea1b2b180daa280873c6461c2a3e522a81ce8077f3b43d795b8572f338c4db31bba3971655adb6175773f81e526c50f3aef6978399bb3797762ea85"
+
+[update]
+[update.modrinth]
+mod-id = "XQCWZqcM"
+version = "x7ScokrE"

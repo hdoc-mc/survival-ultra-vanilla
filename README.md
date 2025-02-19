@@ -151,6 +151,7 @@ Minecraft days` that is equal to `80 minutes IRL`
 ## Resource Packs
 
 - `3d crops Revamped`: 1
+- `Ancient N Decked`: 1.2
 - `Better Boat`: 1
 - `Better Carpets`: 0.1 (1.19.4)
 - `Better Enchanting Table`: 1.1

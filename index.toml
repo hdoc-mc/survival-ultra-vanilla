@@ -464,6 +464,11 @@ file = "resourcepacks/Improved Fences Single-Door Gate Add-On V1.1.zip"
 hash = "701f9b891b60d13a50adf1fe8a34937bf75dd81d26cec808b8f06c2279dd99ba"
 
 [[files]]
+file = "resourcepacks/ancient-n-decked.pw.toml"
+hash = "a9db36e27e3ee760f561e0637b41388ccdbdac2e476ef39de65f960c4fba736d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-boat.pw.toml"
 hash = "21130d345a7181fad0de02729144c53bd90ab31e37bd49c22c3edb8bf4c06045"
 metafile = true
