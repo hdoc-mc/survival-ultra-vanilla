@@ -449,14 +449,6 @@ hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
-file = "notes/local/Survival Ultra Vanilla/Coords.txt"
-hash = "c330c34fe62f5d9250968a379da3981b13512119ae02233b1b6096a3854622b2"
-
-[[files]]
-file = "notes/local/Survival Ultra Vanilla/Neddings.txt"
-hash = "89d8b018eb5325e531ead0a38fab0596e508d923b3bf492a0e74d66a2d0fa286"
-
-[[files]]
 file = "options.txt"
 hash = "b0f655c9b09a90d295018a967047b3cbea2566d1c15e34577c47a9ab56d3d6b6"
 
@@ -471,7 +463,7 @@ hash = "2da1781ef5e39004cbfa0de2d5488f8d7d1b8fc066f26a1a09dbd164812c59f6"
 
 [[files]]
 file = "resourcepacks/Hatsune Miku Paintings - Hdoc Edit.zip"
-hash = "fa72dfa2b657c9609606bc488f4727c9e031f73faeebe992f5004319748b9a05"
+hash = "cb9b02b6cd10bfd07e2587dd189b34ae860bded153862d0b14533ba045443bd3"
 
 [[files]]
 file = "resourcepacks/Improved Fences All Planks Add-On V1.2.2.zip"
