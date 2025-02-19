@@ -424,11 +424,6 @@ hash = "551a3b3652332484f82d0ecd55b4a9028fc7effcc1dfa62149a620c271d90e36"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "e77a8f64a62f98e86b2ba89321dc81d61b88d1ad1a3d7ec0deb8a35f6428a795"
-metafile = true
-
-[[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "baedebbba16493de11ce22862829fc54de44bd6ecbb5b198b28f5c68b197be3b"
 metafile = true

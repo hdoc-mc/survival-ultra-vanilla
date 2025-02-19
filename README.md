@@ -141,7 +141,6 @@ Run the same commands as the installation.
 Minecraft days` that is equal to `80 minutes IRL`
 - `SkinChanger`: 0.9.2
   - `Architectury API`: 13.0.8
-- `Tool trims`: 2.2.2
 - `Visual Overhaul`: 5.2.1
 - `Visual Workbench`: 21.1.0
   - `Forge Config API Port`: 21.1.3
