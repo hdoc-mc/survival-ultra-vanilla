@@ -7,7 +7,7 @@
   "smoker_particles": true,
   "blast_furnace_particles": true,
   "coloredItems": false,
-  "coloredLilypad": true,
+  "coloredLilypad": false,
   "buttonIcons": false,
   "buttonIconPosition": "LOCATION",
   "zoomIconOnHover": true,
