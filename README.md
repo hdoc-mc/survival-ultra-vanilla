@@ -171,6 +171,7 @@ Minecraft days` that is equal to `80 minutes IRL`
 - `FancyConnectedBeds`: (Downloaded from [BetterBeds
   repository](https://github.com/TeamMidnightDust/BetterBeds))
 - `Fast Better Grass`: 1.21.4
+- `fishing hook bobber 3D`: 2.1-fancy-line
 - `Hatsune Miku Totem`: 1.0
 - `hdoc-vt-rp-1.21.x`: [Click to download](https://vanillatweaks.net/share#TMdEn4)
 - `Human Era Villagers`: HumanVillagerOnly 2.75
@@ -181,11 +182,13 @@ Minecraft days` that is equal to `80 minutes IRL`
 - `Improved Fences All Planks Add-On`: 1.2.2 (Downloaded from [Improved
   Fences repository](https://github.com/NaiNonTH/Improved-Fences))
 - `Minecarts with Wheels`: 1.1.0
+- `Spryzeen's Ore Glint`: 1.7 for Sodium
 - `Recolourful Containers GUI + HUD (DARK)`: 1.1.1
 - `Round Trees`: 7.1
 - `XXVI's Shiny Armor Trims`: v5 (Vanilla Animated) (Downloaded from [Curseforge
   Page](https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims)
 - `Shrimp's Distinct Potions`: 1.1
+- `Shiny End Crystals`: 1.0
 - `Simple Grass Flowers`: 1.9.2
 - `Spryzeen's Knight Armor`: 1.8
 - `Taiga Painting`: 1.0

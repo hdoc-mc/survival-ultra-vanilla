@@ -1,0 +1,13 @@
+name = "fishing hook bobber 3D"
+filename = "3D-fishing-hook-bobber-v2.1-fancy-with-line.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9LkpbDXl/versions/lAyj41IQ/3D-fishing-hook-bobber-v2.1-fancy-with-line.zip"
+hash-format = "sha512"
+hash = "36d322169e64816a8b3cce46e230e58069669bc84cebc508f07da5b303f69a7eae533003f58f568c7ecadf924c2abd4b9c24e1cf202e4ece80c0ec873116cbc2"
+
+[update]
+[update.modrinth]
+mod-id = "9LkpbDXl"
+version = "lAyj41IQ"

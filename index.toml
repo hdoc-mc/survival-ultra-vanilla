@@ -538,6 +538,11 @@ hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fishing-hook-bobber-3d.pw.toml"
+hash = "17cd00b8cec29396fa1b353fe5168bce1f27bed9b079fbafcfbb82ee7bf62719"
+metafile = true
+
+[[files]]
 file = "resourcepacks/hatsune-miku-totem.pw.toml"
 hash = "d5c64c206bd2a2a6c8bf56a55e97019bfee5f1fa69e73dcbbab1db359ad9738c"
 metafile = true
@@ -577,6 +582,11 @@ hash = "df2cf88ec48d05e69b61a75d625d645a87655ffed69d2c875fff3611b9373278"
 metafile = true
 
 [[files]]
+file = "resourcepacks/shiny-end-crystals.pw.toml"
+hash = "34ca2bcd14e44ac993e6325ecad7de35fc07dd275983651117d00feee14151ef"
+metafile = true
+
+[[files]]
 file = "resourcepacks/shrimps-distinct-potions.pw.toml"
 hash = "9efc2a9068afc99ca1996349294d65f81c577d39e5f1fa7d1dcb3dacd16d0514"
 metafile = true
@@ -589,6 +599,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/spryzeens-knight-armor.pw.toml"
 hash = "30f61f6b2865ee0a233bdc0b959ab33b567b1a48d89bb289c2d1113e1f9550b1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spryzeens-ore-glint.pw.toml"
+hash = "e5d49e5f536476c809f6d55a1c7227a440335f8ae41afada4a3f18adf51cfdc1"
 metafile = true
 
 [[files]]

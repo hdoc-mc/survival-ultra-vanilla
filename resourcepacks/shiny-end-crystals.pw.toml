@@ -1,0 +1,13 @@
+name = "Shiny End Crystals"
+filename = "Shiny End Crystals.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ESkvBsdU/versions/hluQSXvP/Shiny%20End%20Crystals.zip"
+hash-format = "sha512"
+hash = "548fd0125f2f263a411266ee97819de29c5f29d1b61fcc369be9b473e80833193258f52c7ad95b576e6137bd27c67d7adc7251168eb940e7978123d95090317d"
+
+[update]
+[update.modrinth]
+mod-id = "ESkvBsdU"
+version = "hluQSXvP"
