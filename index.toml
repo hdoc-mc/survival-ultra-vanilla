@@ -22,7 +22,7 @@ hash = "b116077b82da5f9158fb6423a0fb288db3158ddeb2c06c0e6f7c1bdd2c34ce87"
 
 [[files]]
 file = "config/visualoverhaul.json"
-hash = "a93f70f27c003db3527e91bd3630d3098458682129db3b81286f68a9490fc8ef"
+hash = "384d54707133406c3549160de592c048c9e8b9929066e8c59576ffd3d0bba018"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b0f655c9b09a90d295018a967047b3cbea2566d1c15e34577c47a9ab56d3d6b6"
+hash = "118652e006d06053fac71ee1a1c7045d3c2fa46236c3476a64f53b7f9f64f68a"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -462,6 +462,10 @@ hash = "1b6d9847d57d4a1818091943d1545ebeace594e8bf3ea5dbc085f6973f94081f"
 [[files]]
 file = "resourcepacks/Improved Fences Single-Door Gate Add-On V1.1.zip"
 hash = "701f9b891b60d13a50adf1fe8a34937bf75dd81d26cec808b8f06c2279dd99ba"
+
+[[files]]
+file = "resourcepacks/Shiny Trims v5 (Vanilla Animated).zip"
+hash = "1fc9ac34d61adce016285918c710f73a79a545361b7afc1a629f1d48eceb9dab"
 
 [[files]]
 file = "resourcepacks/ancient-n-decked.pw.toml"

@@ -184,6 +184,8 @@ Minecraft days` that is equal to `80 minutes IRL`
 - `Minecarts with Wheels`: 1.1.0
 - `Recolourful Containers GUI + HUD (DARK)`: 1.1.1
 - `Round Trees`: 7.1
+- `XXVI's Shiny Armor Trims`: v5 (Vanilla Animated) (Downloaded from [Curseforge
+  Page](https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims)
 - `Shrimp's Distinct Potions`: 1.1
 - `Simple Grass Flowers`: 1.9.2
 - `Spryzeen's Knight Armor`: 1.8
