@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "118652e006d06053fac71ee1a1c7045d3c2fa46236c3476a64f53b7f9f64f68a"
+hash = "ec49d21653b076a62210b2233d3f9a664bbd35273c34480a849ea995354ef43d"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -604,11 +604,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/varied-pumpkins.pw.toml"
 hash = "c9f5d8f705ea208bf2a8a8e3d043fcc31141c35b335ee38dca68e3b5531c0c6e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-armor-trims.pw.toml"
-hash = "944576387f4a382ca598e05b67842f7586e27f479015e54545f4b265f21a4281"
 metafile = true
 
 [[files]]

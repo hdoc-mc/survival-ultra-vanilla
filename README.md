@@ -99,7 +99,6 @@ Run the same commands as the installation.
   - Required by `Recolourful Containers GUI + HUD (DARK)` resource pack
 - `CIT Resewn`: 1.2.2
   - Required by:
-    - `Visual Armor Trims` resource pack
     - `xali's Enchanted Books` resource pack
 - `Continuity`: 3.0.0
 - `Cycle Paintings`: 3.6 (set as `client` side)
@@ -192,7 +191,6 @@ Minecraft days` that is equal to `80 minutes IRL`
 - `Taiga Painting`: 1.0
 - `Torches Reimagined`: 1.3.1
 - `Varied Pumpkins`: 1.2
-- `Visual Armor Trims`: 2.1
 - `Visual Overhaul (mod) built-in resource packs`
   - `visualoverhaul/rounddiscs`
   - `visualoverhaul/fancyfurnace`
