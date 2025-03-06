@@ -130,8 +130,9 @@ Run the same commands as the installation.
 - `Particular`: 1.1.1
   - `owo-lib`: 0.12.15
   - Disabled features:
-    - Rain dripples
     - Falling leaves
+    - Rain dripples
+    - Water Drip Ripples
 - `Polytone`: 2.5.13
   - Required by `Shrimp's Distinct Potions` resource pack
 - `Serene Seasons`: 10.1.0.1

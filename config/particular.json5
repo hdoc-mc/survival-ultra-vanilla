@@ -10,7 +10,7 @@
 	"barrelBubbles": true,
 	"poppingBubbles": true,
 	"rainRipples": false,
-	"waterDripRipples": true,
+	"waterDripRipples": false,
 	"cakeEatingParticles": true,
 	"emissiveLavaDrips": true,
 	"fireflySettings": {
