@@ -10,7 +10,7 @@ hash = "a8e7956c83c064ded84bd4fa3a7834c8d8fc3fc1beade621e1c306ba3d1a8cfc"
 
 [[files]]
 file = "config/particular.json5"
-hash = "4e59fc76ce66df03ad645209f7d8d7af2081ae91aada34fb4f3e4d8ad9472b46"
+hash = "f054dc04e884a535fece60d4a872981a2e83ee9c2cb5eb0482bb19495836367b"
 
 [[files]]
 file = "config/time_on_display.toml"
@@ -439,8 +439,12 @@ hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
+file = "notes/local/Survival Ultra Vanilla/Nether Coords.txt"
+hash = "e8b0558f9dbd603f20635393eb985ee9e338b917135e46b2ff9b57bf14772601"
+
+[[files]]
 file = "options.txt"
-hash = "ec49d21653b076a62210b2233d3f9a664bbd35273c34480a849ea995354ef43d"
+hash = "ceef3bbbf9dbe7415502edc15094cc18d43020fdf1eab341915c6f6cc3941e88"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
