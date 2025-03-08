@@ -1,2 +1,10 @@
 Bastion 1:
 -569, 32, 149
+
+---
+
+Nether Fortress 1
+-483, 34, 332
+
+Nether Fortress 1 Tunner B point:
+-425, 120, 316
