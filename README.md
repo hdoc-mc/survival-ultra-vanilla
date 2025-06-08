@@ -238,5 +238,5 @@ Run the following commands once opened `Minecraft`:
 Run the following command:
 
 ```bash
-env GZIP=-9 tar cvzf survival-ultra-vanilla-bkp.tar.gz backup
+tar -I 'gzip -9' -cvf survival-ultra-vanilla-bkp.tar.gz backup
 ```
