@@ -286,7 +286,7 @@ tar -I 'gzip -9' -cvf survival-ultra-vanilla-bkp.tar.gz backup
 [hunger-preview]: https://www.curseforge.com/minecraft/texture-packs/hunger-preview
 [minecarts-with-wheels]: https://modrinth.com/resourcepack/minecarts-with-wheels
 [ore-glint]: https://modrinth.com/resourcepack/spryzeens-ore-glint
-[recolourful-containers]: (https://modrinth.com/resourcepack/spryzeens-ore-glint)
+[recolourful-containers]: https://modrinth.com/resourcepack/spryzeens-ore-glint
 [shiny-armor-trims]: https://www.curseforge.com/minecraft/texture-packs/xxvis-shiny-armor-trims
 [distinct-potions]: https://modrinth.com/resourcepack/shrimps-distinct-potions
 [simple-grass-flowers]: https://modrinth.com/resourcepack/simple-grass-flowers
