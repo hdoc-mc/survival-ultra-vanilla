@@ -208,10 +208,8 @@ Run the same commands as the installation.
   - `Entity Texture Features`
 - [`Hunger Preview`][hunger-preview]: 1.21
 - [`Improved Fences`](https://modrinth.com/resourcepack/improved-fences): 1.2.5
-- `Improved Fences Single-Door Gate Add-On`: 1.1 (Downloaded from [Improved
-  Fences repository](https://github.com/NaiNonTH/Improved-Fences))
-- `Improved Fences All Planks Add-On`: 1.2.2 (Downloaded from [Improved
-  Fences repository](https://github.com/NaiNonTH/Improved-Fences))
+- [`Improved Fences All Planks Add-On`][improved-fences-all-planks]: 1.2.2
+- [`Improved Fences Single-Door Gate Add-On`][improved-fences-single-door]: 1.1
 - [`Minecarts with Wheels`][minecarts-with-wheels]: 1.1.0
 - [`Spryzeen's Ore Glint`][ore-glint]: 1.7 for Sodium
 - [`Recolourful Containers GUI + HUD (DARK)`][recolourful-containers]: 1.1.1
@@ -309,3 +307,5 @@ tar -I 'gzip -9' -cvf survival-ultra-vanilla-bkp.tar.gz backup
 [simple-grass-flowers]: https://modrinth.com/resourcepack/simple-grass-flowers
 [knight-armor]: https://modrinth.com/resourcepack/spryzeens-knight-armor
 [enchanted-books]: https://modrinth.com/resourcepack/xalis-enchanted-books
+[improved-fences-all-planks]: https://github.com/NaiNonTH/Improved-Fences/blob/main/Add-Ons/Improved%20Fences%20All%20Planks%20Add-On%20V1.2.2.zip
+[improved-fences-single-door]: https://github.com/NaiNonTH/Improved-Fences/blob/main/Add-Ons/Improved%20Fences%20Single-Door%20Gate%20Add-On%20V1.1.zip
