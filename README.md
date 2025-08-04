@@ -124,7 +124,7 @@ Run the same commands as the installation.
     6.2.9
     - Required by `Better Enchanting Table` resource pack
   - Required by:
-    - `Better Boats` resource pack
+    - `Better Boat` resource pack
     - `Human Era Villagers` resource pack
 - [`FabricSkyBoxes`](https://modrinth.com/mod/nuit): 0.7.4
   - Required by `Dramatic Skys` resource pack
