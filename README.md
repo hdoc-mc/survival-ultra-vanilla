@@ -170,14 +170,11 @@ Run the same commands as the installation.
 - [`3d crops Revamped`](https://modrinth.com/resourcepack/3d-crops): 1
 - [`Ancient N Decked`](https://modrinth.com/resourcepack/ancient-n-decked): 1.2
 - [`Better Boat`](https://modrinth.com/resourcepack/better-boat): 1
-  Required mods:
-  - `Entity Model Features`
-  - `Entity Texture Features`
+  - Required mods: `Entity Model Features`, `Entity Texture Features`
 - [`Better Carpets`](https://modrinth.com/resourcepack/better-carpets): 0.1
   (1.19.4)
 - [`Better Enchanting Table`][better-enchanting-table]: 1.1
-  Required mods:
-  - `Entity Texture Features`
+  - Required mods: `Entity Texture Features`
 - [`Better Lanterns`](https://modrinth.com/resourcepack/better-lanterns): 1.2
 - [`Blocky Saplings`](https://modrinth.com/resourcepack/blocky-saplings): 1.1
 - `Continuity (mod) built-in resource packs`
@@ -186,8 +183,7 @@ Run the same commands as the installation.
 - [`Creepers Reimagined`][creepers-reimagined]: 1.2
 - [`Default Dark Mode: Expansion`][default-dark-mode-expansion]: 2024.11.10
 - [`Dramatic Skys`](https://modrinth.com/resourcepack/dramatic-skys): 1.5.3.30
-  Required mods:
-  - `FabricSkyBoxes`
+  - Required mods: `FabricSkyBoxes`
 - `Eating Animation (mod) built-in resource packs`
   - `minecraft/supporteatinganimation`
 - [`Enchant Icons`](https://modrinth.com/resourcepack/enchant-icons-countxd): 1.3
@@ -203,9 +199,7 @@ Run the same commands as the installation.
   1.0
 - `hdoc-vt-rp-1.21.x`: [Click to download](https://vanillatweaks.net/share#TMdEn4)
 - [`Human Era Villagers`][human-era-villagers]: HumanVillagerOnly 2.75
-  Required mods:
-  - `Entity Model Features`
-  - `Entity Texture Features`
+  - Required mods: `Entity Model Features`, `Entity Texture Features`
 - [`Hunger Preview`][hunger-preview]: 1.21
 - [`Improved Fences`](https://modrinth.com/resourcepack/improved-fences): 1.2.5
 - [`Improved Fences All Planks Add-On`][improved-fences-all-planks]: 1.2.2
@@ -213,15 +207,12 @@ Run the same commands as the installation.
 - [`Minecarts with Wheels`][minecarts-with-wheels]: 1.1.0
 - [`Spryzeen's Ore Glint`][ore-glint]: 1.7 for Sodium
 - [`Recolourful Containers GUI + HUD (DARK)`][recolourful-containers]: 1.1.1
-  Required mods:
-  - `Animatica`
-  - `OptiGUI`
+  - Required mods: `Animatica`, `OptiGUI`
 - [`Round Trees`](https://modrinth.com/resourcepack/round-trees): 7.1
 - [`XXVI's Shiny Armor Trims`][shiny-armor-trims]: v5 (Vanilla Animated)
   (Downloaded from [Curseforge Page][shiny-armor-trims])
 - [`Shrimp's Distinct Potions`][distinct-potions]: 1.1
-  Required mods:
-  - `Polytone`
+  - Required mods: `Polytone`
 - [`Shiny End Crystals`](https://modrinth.com/resourcepack/shiny-end-crystals):
   1.0
 - [`Simple Grass Flowers`][simple-grass-flowers]: 1.9.2
@@ -235,8 +226,7 @@ Run the same commands as the installation.
   - `visualoverhaul/fancyfurnace`
   - `visualoverhaul/nobrewingbottles`
 - [`xali's Enchanted Books`][enchanted-books]: 0.13.0
-  Required mods:
-  - `CIT Resewn`
+  - Required mods: `CIT Resewn`
 
 ### Required Order
 
